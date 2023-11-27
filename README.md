@@ -1,5 +1,4 @@
 
-```markdown
 # Transfer List Test
 
 This is a Create React App project for testing and demonstrating a transfer list component.
@@ -7,8 +6,8 @@ This is a Create React App project for testing and demonstrating a transfer list
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
 - [Available Scripts](#available-scripts)
@@ -30,7 +29,7 @@ Make sure you have Node.js and npm installed on your machine.
 
    ```bash
    git clone https://github.com/Mickmacha/Transfer_list_test.git
-   ```
+    ```
 
 2. Navigate to the project directory:
 
@@ -62,10 +61,10 @@ Transfer_list_test/
 │   ├── index.html
 │   └── ...
 ├── src/
-│   ├── assets/
-│   │   └── ...
-│   ├── components/
-│   │   └── ...
+│   ├
+│   │___Items.jsx
+│   ├── List.jsx
+│   │___Actions.jsx
 │   ├── App.js
 │   ├── index.js
 │   └── ...
